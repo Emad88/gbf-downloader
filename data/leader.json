@@ -1,0 +1,93 @@
+{
+	"1" :
+	{
+		"code"    : 0,
+		"classes" :
+		{
+			"100_sw" : "Fighter",
+			"110_sw" : "Knight",
+			"120_wa" : "Priest",
+			"130_wa" : "Wizard",
+			"140_kn" : "Thief",
+			"150_sw" : "Enhancer",
+			"160_me" : "Grappler",
+			"170_bw" : "Ranger",
+			"180_mc" : "Harpist",
+			"190_sp" : "Lancer"
+		}
+	},
+	"2" :
+	{
+		"code"    : 1,
+		"classes" :
+		{
+			"100_sw" : "Warrior",
+			"110_sw" : "Sentinel",
+			"120_wa" : "Cleric",
+			"130_wa" : "Sorcerer",
+			"140_kn" : "Raider",
+			"150_sw" : "Arcana Dueler",
+			"160_me" : "Kung Fu Artist",
+			"170_bw" : "Archer",
+			"180_mc" : "Bard",
+			"190_sp" : "Dragoon"
+		}
+	},
+	"3" :
+	{
+		"code"    : 2,
+		"classes" :
+		{
+			"100_sw" : "Weapon Master",
+			"110_sw" : "Holy Saber",
+			"120_wa" : "Bishop",
+			"130_wa" : "Hermit",
+			"140_kn" : "Hawkeye",
+			"150_sw" : "Dark Fencer",
+			"160_me" : "Ogre",
+			"170_bw" : "Sidewinder",
+			"180_mc" : "Superstar",
+			"190_sp" : "Valkyrie"
+		}
+	},
+	"4" :
+	{
+		"code"    : 3,
+		"classes" :
+		{
+			"100_sw" : "Berserker",
+			"110_sw" : "Spartan",
+			"120_wa" : "Sage",
+			"130_wa" : "Warlock",
+			"140_kn" : "Bandit Tycoon",
+			"150_sw" : "Chaos Ruler",
+			"160_me" : "Luchador",
+			"170_bw" : "Nighthound",
+			"180_mc" : "Elysian",
+			"190_sp" : "Apsaras"
+		}
+	},
+	"extra" :
+	{
+		"code"    : 2,
+		"classes" :
+		{
+			"200_kn" : "Alchemist",
+			"210_kt" : "Ninja",
+			"220_kt" : "Samurai",
+			"230_sw" : "Sword Master",
+			"240_gu" : "Gunslinger",
+			"250_wa" : "Mystic",
+			"260_kn" : "Assassin",
+			"270_mc" : "Drum Master"
+		}
+	},
+	"skin" :
+	{
+		"code"    : 0,
+		"classes" :
+		{
+			"310_sw" : "Lord of Vermilion"
+		}
+	}
+}

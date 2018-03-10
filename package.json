@@ -1,0 +1,14 @@
+{
+    "name": "gbf_downloader",
+    "version": "0.1.0",
+    "dependencies":
+	{
+		"minimist"         : "~1.2.0",
+		"request"          : "~2.83.0",
+		"request-promise"  : "~4.2.2",
+		"cheerio"          : "~1.0.0-rc.2",
+		"mkdir-recursive"  : "~0.4.0"
+    },
+    "author": "Emanuele Franceschini <emanuelefranceschini@gmail.com>",
+    "description": "Gran Blue Fantasy Image Downloader"
+}
