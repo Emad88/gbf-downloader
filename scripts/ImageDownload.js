@@ -4,7 +4,7 @@ var request = require('request');
 /**
  * Image Download
  * ======================
- * Download and saves a single fileCreatedDate
+ * Download and saves a single file
  * @param {object} options
  */
 var ImageDownload = (options) =>
