@@ -7,7 +7,7 @@ With this Node script you can download the images of all playable characters fro
 
 - Install **Node.js** [https://nodejs.org/en/](https://nodejs.org/en/). If asked to add it to PATH, select yes.
 - Download this repository and unzip it somewhere.
-- Open command line in Admin mode at the project's folder, where `index.js` is.
+- Open the command line in Admin mode at the project's folder.
 - Execute `npm install` in the command line.
 
 ## How to use
