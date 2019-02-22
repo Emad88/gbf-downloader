@@ -1,6 +1,6 @@
 # Granblue Fantasy Image Downloader #
 
-With this Node script you can download the images of all playable characters from the game [Granblue Fantasy](game.granbluefantasy.jp).
+With this Node script you can download the images of all playable characters from the game [Granblue Fantasy](http://game.granbluefantasy.jp/).
 
 
 ## Setup ##
